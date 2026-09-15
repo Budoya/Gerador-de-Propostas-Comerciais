@@ -1,0 +1,21 @@
+⚠️ Aviso de confidencialidade
+
+Este repositório possui finalidade exclusivamente educacional e demonstrativa.
+
+O projeto apresentado é uma implementação independente, desenvolvida para demonstrar conceitos técnicos relacionados à automação e geração de propostas comerciais.
+
+Todos os nomes, clientes, produtos, valores, documentos, identificadores e regras de negócio utilizados nos exemplos são inteiramente fictícios.
+
+Este repositório:
+
+não contém código-fonte proprietário de empresas ou de terceiros;
+não utiliza dados reais de clientes ou usuários;
+não contém credenciais, tokens ou chaves de API;
+não apresenta endpoints, configurações ou estruturas de sistemas internos;
+não reproduz fórmulas comerciais, tributárias ou financeiras proprietárias;
+não contém documentos, imagens ou identidade visual pertencentes a terceiros;
+não representa oficialmente nenhuma empresa, produto ou plataforma mencionada.
+
+Eventuais integrações com CRM são simuladas ou apresentadas apenas de forma conceitual. O fluxo de impressão e exportação para PDF também é demonstrativo e utiliza recursos disponíveis no sistema operacional.
+
+A implementação original que inspirou este estudo foi desenvolvida em contexto profissional. Por esse motivo, detalhes internos, dados sensíveis e informações protegidas por acordos de confidencialidade foram deliberadamente omitidos.
